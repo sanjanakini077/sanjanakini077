@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0117,50:2E1065,100:0D0117&height=170&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=SANJANA+KINI+B"/>
+<h1>SANJANA KINI</h1>
 
-<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&duration=3000&pause=700&color=E879F9&center=true&vCenter=true&width=800&lines=INFORMATION+SCIENCE+ENGINEER;AI+%2F+ML+%E2%80%A2+FULL+STACK+%E2%80%A2+DATA;LLMs+%E2%80%A2+RAG+%E2%80%A2+NLP;Building+AI-powered+software+solutions;Open+to+Software+%26+AI+Opportunities"/>
+<h3>INFORMATION SCIENCE ENGINEER | AI / ML | FULL STACK DEVELOPER</h3>
 
 <br/>
 
@@ -15,7 +15,12 @@
 
 <br/><br/>
 
-<a href="#about-me"><img src="https://img.shields.io/badge/-ABOUT-0D0117?style=for-the-badge&color=2E1065"/></a> <a href="#experience"><img src="https://img.shields.io/badge/-EXPERIENCE-0D0117?style=for-the-badge&color=2E1065"/></a> <a href="#projects"><img src="https://img.shields.io/badge/-PROJECTS-0D0117?style=for-the-badge&color=2E1065"/></a> <a href="#skills"><img src="https://img.shields.io/badge/-SKILLS-0D0117?style=for-the-badge&color=2E1065"/></a> <a href="#connect"><img src="https://img.shields.io/badge/-CONNECT-0D0117?style=for-the-badge&color=2E1065"/></a>
+<a href="#about-me"><img src="https://img.shields.io/badge/-ABOUT-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
+<a href="#quest-log"><img src="https://img.shields.io/badge/-QUEST_LOG-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
+<a href="#side-quests"><img src="https://img.shields.io/badge/-SIDE_QUESTS-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
+<a href="#skill-tree"><img src="https://img.shields.io/badge/-SKILL_TREE-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
+<a href="#achievements"><img src="https://img.shields.io/badge/-ACHIEVEMENTS-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
+<a href="#save-point"><img src="https://img.shields.io/badge/-SAVE_POINT-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
 
 </div>
 
@@ -27,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&color=FFFFFF&center=true&vCenter=true&width=500&height=45&lines=ABOUT+ME&repeat=false"/>
+<h2>ABOUT ME</h2>
 
 </div>
 
@@ -37,57 +42,61 @@ My interests include **Artificial Intelligence, Machine Learning, Large Language
 
 I enjoy turning technical concepts into useful applications while continuously improving my software engineering and problem-solving skills.
 
-### What I focus on
+**What defines my approach:**
 
-* 🧠 AI, ML, LLMs and RAG
-* 💻 Software & Full Stack Development
-* 📊 Data Analysis
-* 🤖 Intelligent AI applications
-* 🌐 Web Development
-* 🚀 Practical problem solving
+- 🛠️ I focus on building practical software solutions
+- 🧠 I explore AI, ML, LLMs, RAG and NLP
+- 💻 I work across software and web development
+- 📊 I enjoy working with data and machine learning
+- 🤖 I am currently working on an AI-powered College Chatbot
+- 📚 I continuously improve my technical skills through projects and certifications
+
+**Currently building:** AI-powered College Chatbot using **LLMs, NLP, RAG, facial recognition and image processing**.
 
 ---
 
-<a name="experience"></a>
+<a name="quest-log"></a>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=⚔️+EXPERIENCE&repeat=false"/>
+<h2>⚔️ QUEST LOG // EXPERIENCE</h2>
 
 </div>
 
 <details>
-<summary>⚔️ <b>MAIN QUEST — Siemens Intern</b> <i>(click to view)</i></summary>
+
+<summary>⚔️ <b>MAIN QUEST — Siemens Internship</b> <i>(click to view)</i></summary>
 
 <br/>
 
-Currently working as an **Intern at Siemens**, contributing to data-driven workflows, structured information management and project documentation.
+Worked with data-driven workflows, structured information and professional documentation.
 
-* 📊 Developing data-driven dashboards.
-* 📈 Organizing and analyzing structured datasets.
-* 📑 Working with Microsoft Excel for data processing.
-* 📝 Preparing professional documentation.
-* 🗂️ Managing project information using Microsoft Word and Excel.
+- 📊 Worked with structured project data
+- 📈 Supported data organization and analysis
+- 📑 Used Microsoft Excel for data processing
+- 📝 Prepared professional documentation
+- 🗂️ Worked with Microsoft Word and Excel
 
-**Skills:** `Excel` `Data Analysis` `Dashboards` `Documentation`
+**Skills:** `Excel` `Data Analysis` `Documentation`
 
 </details>
 
 ---
 
-<a name="projects"></a>
+<a name="side-quests"></a>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=🎯+PROJECTS&repeat=false"/>
+<h2>🎯 SIDE QUESTS // PROJECTS</h2>
 
 </div>
 
 <details>
+
 <summary>🤖 <b>AI College Chatbot — Image Processing & Facial Recognition</b></summary>
 
 <br/>
@@ -96,40 +105,36 @@ Currently working as an **Intern at Siemens**, contributing to data-driven workf
 
 AI-powered college assistant designed to provide **context-aware academic and administrative support**.
 
-### Core Features
-
-* 🧠 LLM-powered academic and administrative assistance.
-* 🔎 Retrieval-Augmented Generation for context-aware responses.
-* 💬 NLP-based conversational interaction.
-* 👤 Facial recognition for biometric authentication.
-* 🖼️ Image processing for personalized student services.
-* 📱 Designed for Raspberry Pi and smartphone platforms.
-* ⚡ Focused on a low-cost, real-time campus assistant.
+- 🧠 LLM-powered academic and administrative assistance
+- 🔎 Retrieval-Augmented Generation
+- 💬 NLP-based conversational interaction
+- 👤 Facial recognition
+- 🖼️ Image processing
+- 📱 Designed for Raspberry Pi and smartphone platforms
+- ⚡ Focused on a low-cost real-time campus assistant
 
 **Tech Stack**
 
-`LLMs` `NLP` `RAG` `Facial Recognition` `Image Processing` `Python`
+`Python` `LLMs` `NLP` `RAG` `Computer Vision`
 
 </details>
 
 <br/>
 
 <details>
+
 <summary>🎬 <b>Movie Recommendation System</b></summary>
 
 <br/>
 
-A personalized movie recommendation system developed using machine learning and web technologies.
+Personalized movie recommendation system developed using machine learning and web technologies.
 
-### Core Features
-
-* 🎬 Personalized movie recommendations.
-* 🧹 Data preprocessing and feature extraction.
-* 🧠 NLP-based movie metadata analysis.
-* 🔗 Collaborative filtering.
-* 📐 Matrix factorization.
-* ⚙️ Model optimization.
-* 🌐 Flask-based web application.
+- 🎬 Personalized movie recommendations
+- 🧹 Data preprocessing
+- 🧠 NLP-based analysis
+- 🔗 Collaborative filtering
+- 📐 Matrix factorization
+- 🌐 Flask web application
 
 **Tech Stack**
 
@@ -137,71 +142,131 @@ A personalized movie recommendation system developed using machine learning and 
 
 </details>
 
+<br/>
+
+<details>
+
+<summary>🌊 <b>Explore Karavali — Tourist Website</b></summary>
+
+<br/>
+
+Responsive tourism website showcasing destinations across the Karavali region.
+
+- 🗺️ Destination galleries
+- 📱 Mobile-responsive design
+- 🔽 Dropdown navigation
+- ✨ Image hover effects
+- 🔗 Booking links
+- 🚀 Deployed using GitHub Pages
+
+**Tech Stack**
+
+`HTML` `CSS` `GitHub Pages`
+
+</details>
+
+<br/>
+
+<details>
+
+<summary>🧠 <b>Applied Deep Learning Models</b></summary>
+
+<br/>
+
+Implemented and experimented with deep learning architectures for image classification, text classification and image generation.
+
+- 🖼️ CNN-based image classification
+- 📝 RNN / LSTM / GRU for text classification
+- 🎨 GAN-based image generation
+- 🔬 ResNet18 transfer learning
+- 📊 CIFAR-10 experiments
+- 🤖 PyTorch-based implementations
+
+**Tech Stack**
+
+`Python` `PyTorch` `CNN` `RNN` `LSTM` `GRU` `GAN`
+
+</details>
+
 ---
 
-<a name="skills"></a>
+<a name="skill-tree"></a>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=⚔️+SKILL+TREE&repeat=false"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,html,css,react,nodejs,mysql,git,github,vscode"/>
+<h2>⚔️ SKILL TREE // TECH STACK</h2>
 
 </div>
 
 <details>
-<summary>🧠 <b>AI / DATA</b></summary>
+
+<summary>💻 <b>PROGRAMMING</b></summary>
 
 <br/>
 
-`Artificial Intelligence` `Machine Learning` `LLMs` `RAG` `NLP` `Data Analysis` `Computer Vision` `Pandas` `Scikit-learn`
+<img src="https://skillicons.dev/icons?i=python,c,java,js"/>
 
 </details>
 
 <details>
-<summary>🌐 <b>WEB / SOFTWARE</b></summary>
+
+<summary>🌐 <b>WEB DEVELOPMENT</b></summary>
 
 <br/>
 
-`Python` `C` `Java` `JavaScript` `TypeScript` `HTML` `CSS` `React` `Node.js` `Flask` `MySQL`
+<img src="https://skillicons.dev/icons?i=html,css,react,flask"/>
 
 </details>
 
 <details>
+
+<summary>🧠 <b>AI / ML / DATA</b></summary>
+
+<br/>
+
+`Artificial Intelligence` `Machine Learning` `Deep Learning` `NLP` `LLMs` `RAG` `Computer Vision` `Pandas` `NumPy` `Scikit-learn` `PyTorch`
+
+</details>
+
+<details>
+
 <summary>🛠️ <b>TOOLS</b></summary>
 
 <br/>
 
-`Git` `GitHub` `VS Code` `Microsoft Excel` `Microsoft Word` `Google Sheets`
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
+
+<br/><br/>
+
+`Microsoft Excel` `Google Sheets`
 
 </details>
 
 ---
 
+<a name="achievements"></a>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=🏆+ACHIEVEMENTS&repeat=false"/>
+<h2>🏆 ACHIEVEMENTS UNLOCKED</h2>
 
 </div>
 
-> 🎓 **B.Tech — Information Science & Engineering**
-> NMAM Institute of Technology, Nitte
+> 🎓 **ACHIEVEMENT UNLOCKED!** B.Tech — Information Science and Engineering
 
-> ⭐ **8.01 / 10 CGPA**
+> 💼 **ACHIEVEMENT UNLOCKED!** Siemens Internship
 
-> 💼 **Siemens Internship**
+> 🤖 **ACHIEVEMENT UNLOCKED!** AI College Chatbot — LLM + NLP + RAG + Facial Recognition
 
-> 🤖 **AI College Chatbot**
-> LLM + NLP + RAG + Facial Recognition
+> 🎬 **ACHIEVEMENT UNLOCKED!** Movie Recommendation System
 
-> 🎬 **Movie Recommendation System**
-> Python + ML + Flask
+> 🌊 **ACHIEVEMENT UNLOCKED!** Explore Karavali — Responsive Tourism Website
+
+> 🧠 **ACHIEVEMENT UNLOCKED!** Applied Deep Learning Models — CNN, RNN, GAN & ResNet
 
 ---
 
@@ -209,17 +274,17 @@ A personalized movie recommendation system developed using machine learning and 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=🎓+EDUCATION&repeat=false"/>
+<h2>🎓 EDUCATION</h2>
 
 </div>
 
-**NMAM Institute of Technology, Nitte**
-B.Tech — Information Science and Engineering
-`Expected Graduation: 2027` · `8.01 / 10 CGPA`
+🎓 **B.Tech — Information Science and Engineering**  
+**NMAM Institute of Technology, Nitte**  
+`Expected Graduation: 2027`
 
-**Sharadha PU College, Mangalore**
-Pre-University Course
-`2021 – 2022` · `87.5%`
+🎓 **Pre-University Course (PUC)**  
+**Sharadha PU College, Mangalore**  
+`2022 – 2023`
 
 ---
 
@@ -227,79 +292,83 @@ Pre-University Course
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=CURRENT+STATUS&repeat=false"/>
+<h2>📜 CERTIFICATIONS</h2>
+
+</div>
+
+### Infosys Springboard
+
+- TypeScript Programming & Software Engineering Fundamentals
+
+### Udemy
+
+- Full-Stack Web Development, Java Data Structures & LeetCode
+- Java Spring Framework, Spring Boot & Spring AI
+
+### Microsoft
+
+- Microsoft AI Learning
+- Azure Learning
+- Applied AI Learning Challenges
+
+### Coursera
+
+- AI Powered Software and System Design — DeepLearning.AI
+- JavaScript for Web Development — Board Infinity
+- Introduction to Data Analytics — IBM
+- Data-Driven Systems: DBMS, SQL & Data Modeling
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
+
+<h2>CURRENT STATUS</h2>
 
 </div>
 
 ```python
 class SanjanaKini:
 
-    name = "Sanjana Kini B"
+    name = "Sanjana Kini"
     role = "Information Science Engineer"
     github = "sanjanakini077"
 
     education = "B.Tech Information Science & Engineering"
-    cgpa = "8.01 / 10"
     graduation = 2027
 
     experience = [
         "Siemens — Intern"
     ]
 
-    building = [
+    currently_building = [
         "AI College Chatbot",
         "RAG-powered applications"
     ]
 
     learning = [
-        "LLMs",
-        "RAG",
+        "Large Language Models",
+        "Retrieval-Augmented Generation",
         "AI / ML",
         "Full Stack Development"
+    ]
+
+    skills = [
+        "Python",
+        "C",
+        "HTML",
+        "CSS",
+        "React",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP"
     ]
 
     open_to = [
         "Software Engineering",
         "AI / ML",
-        "Full Stack Development",
-        "Data & Analytics"
+        "Full Stack Development"
     ]
 
     mission = "Build practical technology that creates real-world impact"
-```
-
----
-
-<a name="connect"></a>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=💾+SAVE+POINT+%2F%2F+CONNECT&repeat=false"/>
-
-<br/><br/>
-
-<a href="mailto:sanjanakini077@gmail.com">
-<img src="https://img.shields.io/badge/-GMAIL-0D0117?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://github.com/sanjanakini077">
-<img src="https://img.shields.io/badge/-GITHUB-2E1065?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/-LINKEDIN-0D0117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
-
-<br/><br/>
-
-**Open to software engineering, AI/ML and full stack opportunities.**
-
-<br/>
-
-⭐ **Build. Learn. Ship. Repeat.** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0117,50:2E1065,100:0D0117&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
