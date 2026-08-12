@@ -31,11 +31,11 @@
 
 </div>
 
-I am an **Information Science Engineering student** at **NMAM Institute of Technology, Nitte**, interested in building practical software and AI-powered solutions.
+I am an **Information Science Engineering student** at **NMAM Institute of Technology, Nitte**, focused on building practical software and AI-powered solutions.
 
-My interests include **Artificial Intelligence, Machine Learning, Large Language Models, Retrieval-Augmented Generation, NLP, Data Analysis and Full Stack Development**.
+My interests include **Artificial Intelligence, Machine Learning, Large Language Models, Retrieval-Augmented Generation, NLP, Data Analysis, Computer Vision and Full Stack Development**.
 
-I enjoy turning ideas into working applications and continuously improving my software engineering and problem-solving skills.
+I enjoy turning technical concepts into useful applications while continuously improving my software engineering and problem-solving skills.
 
 ### What I focus on
 
@@ -59,7 +59,6 @@ I enjoy turning ideas into working applications and continuously improving my so
 </div>
 
 <details>
-
 <summary>⚔️ <b>MAIN QUEST — Siemens Intern</b> <i>(click to view)</i></summary>
 
 <br/>
@@ -88,35 +87,55 @@ Currently working as an **Intern at Siemens**, contributing to data-driven workf
 
 </div>
 
-### 🤖 AI College Chatbot
+<details>
+<summary>🤖 <b>AI College Chatbot — Image Processing & Facial Recognition</b></summary>
 
-**Ongoing**
+<br/>
+
+**Status:** `ONGOING`
 
 AI-powered college assistant designed to provide **context-aware academic and administrative support**.
 
-* 🧠 LLM-based assistant
-* 🔎 Retrieval-Augmented Generation
-* 💬 NLP-based interaction
-* 👤 Facial recognition
-* 🖼️ Image processing
-* 📱 Raspberry Pi & smartphone platforms
+### Core Features
 
-**Tech:** `LLMs` `NLP` `RAG` `Computer Vision` `Python`
+* 🧠 LLM-powered academic and administrative assistance.
+* 🔎 Retrieval-Augmented Generation for context-aware responses.
+* 💬 NLP-based conversational interaction.
+* 👤 Facial recognition for biometric authentication.
+* 🖼️ Image processing for personalized student services.
+* 📱 Designed for Raspberry Pi and smartphone platforms.
+* ⚡ Focused on a low-cost, real-time campus assistant.
 
----
+**Tech Stack**
 
-### 🎬 Movie Recommendation System
+`LLMs` `NLP` `RAG` `Facial Recognition` `Image Processing` `Python`
 
-Personalized movie recommendation system built using machine learning and web technologies.
+</details>
 
-* 🎬 Personalized recommendations
-* 🧹 Data preprocessing
-* 🧠 NLP
-* 🔗 Collaborative filtering
-* 📐 Matrix factorization
-* 🌐 Flask web application
+<br/>
 
-**Tech:** `Python` `Pandas` `Scikit-learn` `Flask` `NLP`
+<details>
+<summary>🎬 <b>Movie Recommendation System</b></summary>
+
+<br/>
+
+A personalized movie recommendation system developed using machine learning and web technologies.
+
+### Core Features
+
+* 🎬 Personalized movie recommendations.
+* 🧹 Data preprocessing and feature extraction.
+* 🧠 NLP-based movie metadata analysis.
+* 🔗 Collaborative filtering.
+* 📐 Matrix factorization.
+* ⚙️ Model optimization.
+* 🌐 Flask-based web application.
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-learn` `Flask` `NLP`
+
+</details>
 
 ---
 
@@ -135,7 +154,6 @@ Personalized movie recommendation system built using machine learning and web te
 </div>
 
 <details>
-
 <summary>🧠 <b>AI / DATA</b></summary>
 
 <br/>
@@ -145,7 +163,6 @@ Personalized movie recommendation system built using machine learning and web te
 </details>
 
 <details>
-
 <summary>🌐 <b>WEB / SOFTWARE</b></summary>
 
 <br/>
@@ -155,7 +172,6 @@ Personalized movie recommendation system built using machine learning and web te
 </details>
 
 <details>
-
 <summary>🛠️ <b>TOOLS</b></summary>
 
 <br/>
@@ -186,9 +202,6 @@ Personalized movie recommendation system built using machine learning and web te
 
 > 🎬 **Movie Recommendation System**
 > Python + ML + Flask
-
-> 📚 **Multiple Technical Certifications**
-> Infosys · Udemy · Microsoft · Coursera
 
 ---
 
@@ -227,6 +240,7 @@ class SanjanaKini:
 
     education = "B.Tech Information Science & Engineering"
     cgpa = "8.01 / 10"
+    graduation = 2027
 
     experience = [
         "Siemens — Intern"
@@ -262,7 +276,7 @@ class SanjanaKini:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=💾+CONNECT&repeat=false"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=💾+SAVE+POINT+%2F%2F+CONNECT&repeat=false"/>
 
 <br/><br/>
 
@@ -272,6 +286,10 @@ class SanjanaKini:
 
 <a href="https://github.com/sanjanakini077">
 <img src="https://img.shields.io/badge/-GITHUB-2E1065?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/-LINKEDIN-0D0117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
