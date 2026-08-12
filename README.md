@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0117,50:2E1065,100:0D0117&height=170&section=header&animation=fadeIn" width="100%"/>
 
-<h1>SANJANA KINI</h1>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=SANJANA+KINI" />
 
-<h3>INFORMATION SCIENCE ENGINEER | AI / ML | FULL STACK DEVELOPER</h3>
+<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&duration=3000&pause=700&color=E879F9&center=true&vCenter=true&width=800&lines=INFORMATION+SCIENCE+ENGINEER+%7C+AI+%2F+ML+%7C+FULL+STACK;Building+AI-powered+software+solutions;LLMs+%E2%80%A2+RAG+%E2%80%A2+NLP+%E2%80%A2+Machine+Learning;Web+Development+%E2%80%A2+Data+Analysis;Open+to+Software+%26+AI+Opportunities" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓_B.Tech-Information_Science-A855F7?style=for-the-badge&labelColor=0D0117"/>
-<img src="https://img.shields.io/badge/⭐_CGPA-8.01%2F10-E879F9?style=for-the-badge&labelColor=0D0117"/>
-<img src="https://img.shields.io/badge/📍_Mangalore%2C_India-6D28D9?style=for-the-badge&labelColor=0D0117"/>
+<img src="https://img.shields.io/badge/LV-Student-A855F7?style=for-the-badge&labelColor=0D0117"/>
+<img src="https://img.shields.io/badge/🎓_CGPA-5.83%2F10-E879F9?style=for-the-badge&labelColor=0D0117"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN__TO__OPPORTUNITIES-A855F7?style=for-the-badge&labelColor=0D0117"/>
 <img src="https://komarev.com/ghpvc/?username=sanjanakini077&label=VISITORS&color=6D28D9&style=for-the-badge"/>
 
 <br/><br/>
@@ -22,278 +22,174 @@
 <a href="#achievements"><img src="https://img.shields.io/badge/-ACHIEVEMENTS-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
 <a href="#save-point"><img src="https://img.shields.io/badge/-SAVE_POINT-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
 
+<br/><br/>
+
+<img src="https://api.dicebear.com/7.x/bottts/svg?seed=SanjanaKini&backgroundColor=0d0117" width="80"/>
+
 </div>
 
 <br/>
 
 <a name="about-me"></a>
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-
-<h2>ABOUT ME</h2>
-
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&color=FFFFFF&center=true&vCenter=true&width=500&height=45&lines=ABOUT+ME&repeat=false" />
 </div>
 
-I am an **Information Science Engineering student** at **NMAM Institute of Technology, Nitte**, focused on building practical software and AI-powered solutions.
+<table>
+<tr>
 
-My interests include **Artificial Intelligence, Machine Learning, Large Language Models, Retrieval-Augmented Generation, NLP, Data Analysis, Computer Vision and Full Stack Development**.
+<td width="150" valign="top" align="center">
+<img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=SanjanaKini&backgroundColor=2e1065" width="130"/>
+<br/><sub><b>Information Science Engineer</b></sub>
+</td>
 
-I enjoy turning technical concepts into useful applications while continuously improving my software engineering and problem-solving skills.
+<td>
+
+I am an **Information Science Engineering student** focused on software development, artificial intelligence, machine learning and building practical technology solutions.
+
+My technical interests include **AI, Machine Learning, Deep Learning, NLP, Large Language Models, Retrieval-Augmented Generation, Data Analysis, Computer Vision and Full Stack Development**.
 
 **What defines my approach:**
 
 - 🛠️ I focus on building practical software solutions
-- 🧠 I explore AI, ML, LLMs, RAG and NLP
 - 💻 I work across software and web development
-- 📊 I enjoy working with data and machine learning
-- 🤖 I am currently working on an AI-powered College Chatbot
+- 🧠 I explore AI, ML, Deep Learning, LLMs and RAG
+- 📊 I work with data analysis and machine learning
+- 🤖 I enjoy developing intelligent applications
 - 📚 I continuously improve my technical skills through projects and certifications
 
 **Currently building:** AI-powered College Chatbot using **LLMs, NLP, RAG, facial recognition and image processing**.
 
----
+</td>
+</tr>
+</table>
+
+<br/>
 
 <a name="quest-log"></a>
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-
-<h2>⚔️ QUEST LOG // EXPERIENCE</h2>
-
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%97%A1%EF%B8%8F+QUEST+LOG+%2F%2F+EXPERIENCE&repeat=false" />
 </div>
 
 <details>
-
-<summary>⚔️ <b>MAIN QUEST — Siemens Internship</b> <i>(click to view)</i></summary>
+<summary>⚔️ <b>MAIN QUEST — Siemens Intern</b> <i>(click to view)</i></summary>
 
 <br/>
 
-Worked with data-driven workflows, structured information and professional documentation.
+Working as an intern at **Siemens**, contributing to data-driven workflows, structured information management and professional documentation.
 
-- 📊 Worked with structured project data
-- 📈 Supported data organization and analysis
-- 📑 Used Microsoft Excel for data processing
-- 📝 Prepared professional documentation
-- 🗂️ Worked with Microsoft Word and Excel
+- 📊 Working with structured project data
+- 📈 Supporting data organization and analysis
+- 📑 Using Microsoft Excel for data processing
+- 📝 Preparing professional documentation
+- 🗂️ Managing project information using Microsoft Word and Excel
 
-**Skills:** `Excel` `Data Analysis` `Documentation`
+**Skills:** `Microsoft Excel` `Data Analysis` `Documentation`
 
 </details>
 
----
+<br/>
 
 <a name="side-quests"></a>
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-
-<h2>🎯 SIDE QUESTS // PROJECTS</h2>
-
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%8E%AF+SIDE+QUESTS+%2F%2F+PROJECTS&repeat=false" />
 </div>
 
-<details>
+**🤖 AI College Chatbot — Image Processing & Facial Recognition**
 
-<summary>🤖 <b>AI College Chatbot — Image Processing & Facial Recognition</b></summary>
+Ongoing AI-powered college assistant designed to provide **context-aware academic and administrative support** using LLMs, NLP, RAG, facial recognition and image processing.
 
-<br/>
+<img src="https://img.shields.io/badge/-LLMs-0D0117?style=for-the-badge&logoColor=E879F9"/> <img src="https://img.shields.io/badge/-NLP-2E1065?style=for-the-badge&logoColor=E879F9"/> <img src="https://img.shields.io/badge/-RAG-0D0117?style=for-the-badge&logoColor=E879F9"/> <img src="https://img.shields.io/badge/-Computer_Vision-2E1065?style=for-the-badge&logoColor=E879F9"/>
 
-**Status:** `ONGOING`
+**🎬 Movie Recommendation System**
 
-AI-powered college assistant designed to provide **context-aware academic and administrative support**.
+Machine learning based movie recommendation application developed using Python, Pandas, Scikit-learn, Flask and NLP.
 
-- 🧠 LLM-powered academic and administrative assistance
-- 🔎 Retrieval-Augmented Generation
-- 💬 NLP-based conversational interaction
-- 👤 Facial recognition
-- 🖼️ Image processing
-- 📱 Designed for Raspberry Pi and smartphone platforms
-- ⚡ Focused on a low-cost real-time campus assistant
+<img src="https://img.shields.io/badge/-Python-0D0117?style=for-the-badge&logo=python&logoColor=E879F9"/> <img src="https://img.shields.io/badge/-Pandas-2E1065?style=for-the-badge&logo=pandas&logoColor=E879F9"/> <img src="https://img.shields.io/badge/-Scikit--learn-0D0117?style=for-the-badge&logo=scikitlearn&logoColor=E879F9"/> <img src="https://img.shields.io/badge/-Flask-2E1065?style=for-the-badge&logo=flask&logoColor=E879F9"/>
 
-**Tech Stack**
+**🌊 Explore Karavali — Tourist Website**
 
-`Python` `LLMs` `NLP` `RAG` `Computer Vision`
+Responsive tourism website developed using HTML and CSS with destination galleries, dropdown navigation, image hover effects and booking links.
 
-</details>
+<img src="https://img.shields.io/badge/-HTML-0D0117?style=for-the-badge&logo=html5&logoColor=E879F9"/> <img src="https://img.shields.io/badge/-CSS-2E1065?style=for-the-badge&logo=css3&logoColor=E879F9"/> <img src="https://img.shields.io/badge/-GitHub_Pages-0D0117?style=for-the-badge&logo=github&logoColor=E879F9"/>
 
-<br/>
+**🧠 Applied Deep Learning Models**
 
-<details>
+Implemented deep learning models using CNN, RNN, LSTM, GRU and GAN architectures for image classification, text classification and image generation.
 
-<summary>🎬 <b>Movie Recommendation System</b></summary>
+<img src="https://img.shields.io/badge/-Python-0D0117?style=for-the-badge&logo=python&logoColor=E879F9"/> <img src="https://img.shields.io/badge/-PyTorch-2E1065?style=for-the-badge&logo=pytorch&logoColor=E879F9"/> <img src="https://img.shields.io/badge/-CNN-0D0117?style=for-the-badge&logoColor=E879F9"/> <img src="https://img.shields.io/badge/-RNN-2E1065?style=for-the-badge&logoColor=E879F9"/>
 
 <br/>
-
-Personalized movie recommendation system developed using machine learning and web technologies.
-
-- 🎬 Personalized movie recommendations
-- 🧹 Data preprocessing
-- 🧠 NLP-based analysis
-- 🔗 Collaborative filtering
-- 📐 Matrix factorization
-- 🌐 Flask web application
-
-**Tech Stack**
-
-`Python` `Pandas` `Scikit-learn` `Flask` `NLP`
-
-</details>
-
-<br/>
-
-<details>
-
-<summary>🌊 <b>Explore Karavali — Tourist Website</b></summary>
-
-<br/>
-
-Responsive tourism website showcasing destinations across the Karavali region.
-
-- 🗺️ Destination galleries
-- 📱 Mobile-responsive design
-- 🔽 Dropdown navigation
-- ✨ Image hover effects
-- 🔗 Booking links
-- 🚀 Deployed using GitHub Pages
-
-**Tech Stack**
-
-`HTML` `CSS` `GitHub Pages`
-
-</details>
-
-<br/>
-
-<details>
-
-<summary>🧠 <b>Applied Deep Learning Models</b></summary>
-
-<br/>
-
-Implemented and experimented with deep learning architectures for image classification, text classification and image generation.
-
-- 🖼️ CNN-based image classification
-- 📝 RNN / LSTM / GRU for text classification
-- 🎨 GAN-based image generation
-- 🔬 ResNet18 transfer learning
-- 📊 CIFAR-10 experiments
-- 🤖 PyTorch-based implementations
-
-**Tech Stack**
-
-`Python` `PyTorch` `CNN` `RNN` `LSTM` `GRU` `GAN`
-
-</details>
-
----
 
 <a name="skill-tree"></a>
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-
-<h2>⚔️ SKILL TREE // TECH STACK</h2>
-
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=%E2%9A%94%EF%B8%8F+SKILL+TREE+%2F%2F+TECH+STACK&repeat=false" />
 </div>
 
 <details>
-
-<summary>💻 <b>PROGRAMMING</b></summary>
-
+<summary>🧠 <b>NODE UNLOCKED: AI / ML</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,c,java,js"/>
+<img src="https://img.shields.io/badge/-Machine_Learning-0D0117?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Deep_Learning-2E1065?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-LLMs-0D0117?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-RAG-2E1065?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-NLP-0D0117?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Computer_Vision-2E1065?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-PyTorch-0D0117?style=for-the-badge&logo=pytorch&logoColor=FFFFFF"/>
 
 </details>
 
 <details>
-
-<summary>🌐 <b>WEB DEVELOPMENT</b></summary>
-
+<summary>📈 <b>NODE UNLOCKED: DATA & ANALYTICS</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,flask"/>
+<img src="https://img.shields.io/badge/-Python-0D0117?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Pandas-2E1065?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-NumPy-0D0117?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Scikit--learn-2E1065?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF"/>
 
 </details>
 
 <details>
-
-<summary>🧠 <b>AI / ML / DATA</b></summary>
-
+<summary>🛠️ <b>NODE UNLOCKED: DEVELOPMENT & TOOLS</b></summary>
 <br/>
 
-`Artificial Intelligence` `Machine Learning` `Deep Learning` `NLP` `LLMs` `RAG` `Computer Vision` `Pandas` `NumPy` `Scikit-learn` `PyTorch`
+<img src="https://img.shields.io/badge/-C-0D0117?style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-HTML-2E1065?style=for-the-badge&logo=html5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-CSS-0D0117?style=for-the-badge&logo=css3&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-React-2E1065?style=for-the-badge&logo=react&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Flask-0D0117?style=for-the-badge&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-MySQL-2E1065?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-GitHub-0D0117?style=for-the-badge&logo=github&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-VS_Code-2E1065?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
 
 </details>
 
-<details>
-
-<summary>🛠️ <b>TOOLS</b></summary>
-
 <br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
-
-<br/><br/>
-
-`Microsoft Excel` `Google Sheets`
-
-</details>
-
----
 
 <a name="achievements"></a>
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-
-<h2>🏆 ACHIEVEMENTS UNLOCKED</h2>
-
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%8F%86+ACHIEVEMENTS+UNLOCKED&repeat=false" />
 </div>
 
-> 🎓 **ACHIEVEMENT UNLOCKED!** B.Tech — Information Science and Engineering
-
-> 💼 **ACHIEVEMENT UNLOCKED!** Siemens Internship
+> 🏆 **ACHIEVEMENT UNLOCKED!** Siemens Internship
 
 > 🤖 **ACHIEVEMENT UNLOCKED!** AI College Chatbot — LLM + NLP + RAG + Facial Recognition
 
 > 🎬 **ACHIEVEMENT UNLOCKED!** Movie Recommendation System
 
-> 🌊 **ACHIEVEMENT UNLOCKED!** Explore Karavali — Responsive Tourism Website
+> 🌊 **ACHIEVEMENT UNLOCKED!** Explore Karavali — Tourist Website
 
-> 🧠 **ACHIEVEMENT UNLOCKED!** Applied Deep Learning Models — CNN, RNN, GAN & ResNet
+> 🧠 **ACHIEVEMENT UNLOCKED!** Applied Deep Learning Models
 
----
+<br/>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-
-<h2>🎓 EDUCATION</h2>
-
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%8E%93+EDUCATION&repeat=false" />
 </div>
 
-🎓 **B.Tech — Information Science and Engineering**  
-**NMAM Institute of Technology, Nitte**  
-`Expected Graduation: 2027`
+🎓 **B.Tech. — Information Science and Engineering**  
+**NMAM Institute of Technology, Nitte** · Expected Graduation: **2027**
 
 🎓 **Pre-University Course (PUC)**  
-**Sharadha PU College, Mangalore**  
-`2022 – 2023`
+**Sharadha PU College, Mangalore** · **87.5%**
 
----
+<br/>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-
-<h2>📜 CERTIFICATIONS</h2>
-
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%93%9C+CERTIFICATIONS&repeat=false" />
 </div>
 
 ### Infosys Springboard
@@ -302,8 +198,11 @@ Implemented and experimented with deep learning architectures for image classifi
 
 ### Udemy
 
-- Full-Stack Web Development, Java Data Structures & LeetCode
-- Java Spring Framework, Spring Boot & Spring AI
+- Full-Stack Web Development
+- Java Data Structures & LeetCode
+- Java Spring Framework
+- Spring Boot
+- Spring AI / Generative AI
 
 ### Microsoft
 
@@ -318,19 +217,15 @@ Implemented and experimented with deep learning architectures for image classifi
 - Introduction to Data Analytics — IBM
 - Data-Driven Systems: DBMS, SQL & Data Modeling
 
----
+<br/>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-
-<h2>CURRENT STATUS</h2>
-
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=CURRENT+STATUS&repeat=false" />
 </div>
 
 ```python
 class SanjanaKini:
-
     name = "Sanjana Kini"
     role = "Information Science Engineer"
     github = "sanjanakini077"
@@ -344,7 +239,13 @@ class SanjanaKini:
 
     currently_building = [
         "AI College Chatbot",
-        "RAG-powered applications"
+        "RAG-powered AI applications"
+    ]
+
+    projects = [
+        "Movie Recommendation System",
+        "Explore Karavali",
+        "Applied Deep Learning Models"
     ]
 
     learning = [
@@ -354,21 +255,11 @@ class SanjanaKini:
         "Full Stack Development"
     ]
 
-    skills = [
-        "Python",
-        "C",
-        "HTML",
-        "CSS",
-        "React",
-        "Machine Learning",
-        "Deep Learning",
-        "NLP"
-    ]
-
     open_to = [
         "Software Engineering",
         "AI / ML",
         "Full Stack Development"
     ]
 
+    contact = "sanjanakini077@gmail.com"
     mission = "Build practical technology that creates real-world impact"
